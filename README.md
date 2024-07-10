@@ -15,3 +15,7 @@ In your existing project
 - add `.gitignore` file
 - add `browserlists`
 - build a production version of your code using `parcel build`
+- learn about jsx 
+- what jsx doing behind the scene 
+-react function component 
+
